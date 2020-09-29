@@ -71,7 +71,7 @@ $(document).ready(function() {
 
 		setTimeout(function(){
 			Typed.new('.element', {
-        strings: ["Junior Web Developer"],
+        strings: ["Web Developer"],
         typeSpeed: 0
       });
 		},3500);
